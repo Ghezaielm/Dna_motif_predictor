@@ -58,8 +58,6 @@ To make new predictions (ie with new sequences) throught the default menu, pleas
 - Add the annotations (start,end,intron) manually in the dictionnary (see main script) 
 
 
- I
-
 
  
 
