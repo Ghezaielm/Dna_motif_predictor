@@ -1,0 +1,3 @@
+https://github.com/Ghezaielm/Dna_motif_predictor
+
+gpl-2.0
