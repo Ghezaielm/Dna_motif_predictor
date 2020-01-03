@@ -1,7 +1,7 @@
 Requirements : 
 
--> This is the beta version, i will probably poster a dockable version in few times, stay connected ! 
+-> This is the beta version, i will probably poste a dockable version in few times, stay connected ! 
 
-DL library: Keras (with its depencies) 
+DL library: Keras (with its dependencies) 
 Data viz: Maplotlib 
 General: Numpy 
