@@ -1,3 +1,5 @@
+
+
 $$$$$$$\  $$\   $$\  $$$$$$\        $$\      $$\  $$$$$$\ $$$$$$$$\ $$$$$$\ $$$$$$$$\       
 $$  __$$\ $$$\  $$ |$$  __$$\       $$$\    $$$ |$$  __$$\\__$$  __|\_$$  _|$$  _____|      
 $$ |  $$ |$$$$\ $$ |$$ /  $$ |      $$$$\  $$$$ |$$ /  $$ |  $$ |     $$ |  $$ |            
@@ -18,9 +20,9 @@ $$ |      $$ |  $$ |$$ |      $$ |  $$ |  $$ |  $$ |  $$\   $$ |   $$ |  $$ |$$ 
 $$ |      $$ |  $$ |$$$$$$$$\ $$$$$$$  |$$$$$$\ \$$$$$$  |  $$ |    $$$$$$  |$$ |  $$ |     
 \__|      \__|  \__|\________|\_______/ \______| \______/   \__|    \______/ \__|  \__|     
 
-<i>Author: GHEZAIEL Morad, Github : Ghezaielm, Mail : ghezaiel.morad@gmail.com </i>
+Author: GHEZAIEL Morad, Github : Ghezaielm, Mail : ghezaiel.morad@gmail.com 
 
-<b> Here is the first version of DNA Motif Predictor, a python library for DNA motif searching. </b>
+Here is the first version of DNA Motif Predictor, a python library for DNA motif searching.
  
 /!\ Please read the Requirements document to make sure necessary dependencies are well installed
 
